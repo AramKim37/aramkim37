@@ -3,8 +3,8 @@
  am Aram Kim 😄, I really enjoy learning languages and frameworks like React.js, as well as design in general. I am also interested in Python!! keep going!! This is my homepage https://aramkim37.netlify.app
 
 ## Skills and Experience
-⚛️ React
-💻 HTML, CSS, JS, Java, Phthon, SQL, MongoDB, SQL, Node.js
+* ⚛️  React
+* 💻  HTML, CSS, JS, Java, Phthon, SQL, MongoDB, SQL, Node.js
 
 - 🌱 I’m currently learning Python 
 
