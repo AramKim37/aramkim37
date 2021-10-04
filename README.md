@@ -25,7 +25,7 @@ I am Aram Kim 😄, I really enjoy learning languages and frameworks like React.
 
 <!-- TODO: Add last video link -->
 
-- :computer: Most used Language `React.js, CSS, HTML`
+- :computer: Most used Language `React.js, JavaScript, Java, Python, CSS, HTML`
 - 🤔 I’m looking for some new ideas.
 - 📫 How to reach me: aramkim37@gmail.com.
 - ⚡ Fun fact: I like playing sports and taking a picture of the Milky Way
