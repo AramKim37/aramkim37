@@ -1,7 +1,5 @@
 ### Hi there 👋, Aram Kim
 #### Software developer
-![Software developer](https://aramkim37.netlify.app)
-
  am Aram Kim 😄, I really enjoy learning languages and frameworks like React.js, as well as design in general. I am also interested in Python!! keep going!! This is my homepage https://aramkim37.netlify.app
 
 Skills: Java/ JavaScript/ Python/ SQL / REACT / Node.js/ MongoDB / HTML / CSS
