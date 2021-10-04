@@ -21,20 +21,20 @@ I am Aram Kim 😄, I really enjoy learning languages and frameworks like React.
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-AramKim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aram-kim/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/aramkim37/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aramkim37@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-AramKim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aram-kim/) [![Mail Badge](https://img.shields.io/badge/-@AramKim-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/aramkim37/) [![Mail Badge](https://img.shields.io/badge/-isAramKim-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aramkim37@gmail.com)
 
 <!-- TODO: Add last video link -->
 
 - :computer: Most used Language `React.js, CSS, HTML"`
 - 🤔 I’m looking for some new ideas.
 - 📫 How to reach me: aramkim37@gmail.com.
-- ⚡ Fun fact: I play sports and take a picture of the Milky Way
+- ⚡ Fun fact: I like playing sports and taking a picture of the Milky Way
 
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Java Badge](https://img.shields.io/badge/-Java-007acc?style=for-the-badge&labelColor=black&logo=java&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Java Badge](https://img.shields.io/badge/-Java-007acc?style=for-the-badge&labelColor=black&logo=java&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Sql Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 ### Tutorials
 
