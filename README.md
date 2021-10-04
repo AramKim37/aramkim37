@@ -19,7 +19,7 @@ I am Aram Kim 😄, I really enjoy learning languages and frameworks like React.
 
 I am Aram Kim 😄, I really enjoy learning languages and frameworks like React.js, as well as design in general. I am also interested in Python!! keep going!! This is my homepage https://aramkim37.netlify.app
 
-:mailbox: Reach me out!
+:mailbox:
 
 [![Linkedin Badge](https://img.shields.io/badge/-AramKim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aram-kim/) [![Mail Badge](https://img.shields.io/badge/-@AramKim-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/aramkim37/) [![Mail Badge](https://img.shields.io/badge/-isAramKim-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aramkim37@gmail.com)
 
