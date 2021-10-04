@@ -70,6 +70,6 @@ I am Aram Kim 😄, I really enjoy learning languages and frameworks like React.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aramkim37&theme=dark&show_icons=true)
 
-
+</details>
 
 
