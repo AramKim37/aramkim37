@@ -34,7 +34,8 @@ I am Aram Kim 😄, I really enjoy learning languages and frameworks like React.
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Java Badge](https://img.shields.io/badge/-Java-007acc?style=for-the-badge&labelColor=black&logo=java&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Sql Badge](https://img.shields.io/badge/-SQL-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![Python Badge](https://img.shields.io/badge/-Python-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=61DBFB)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Java Badge](https://img.shields.io/badge/-Java-007acc?style=for-the-badge&labelColor=black&logo=java&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Sql Badge](https://img.shields.io/badge/-SQL-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
 
 ### Tutorials
 
