@@ -25,7 +25,7 @@ I am Aram Kim 😄, I really enjoy learning languages and frameworks like React.
 
 <!-- TODO: Add last video link -->
 
-- :computer: Most used Language `React.js, CSS, HTML"`
+- :computer: Most used Language `React.js, CSS, HTML`
 - 🤔 I’m looking for some new ideas.
 - 📫 How to reach me: aramkim37@gmail.com.
 - ⚡ Fun fact: I like playing sports and taking a picture of the Milky Way
@@ -34,7 +34,7 @@ I am Aram Kim 😄, I really enjoy learning languages and frameworks like React.
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Java Badge](https://img.shields.io/badge/-Java-007acc?style=for-the-badge&labelColor=black&logo=java&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)  [![Python Badge](https://img.shields.io/badge/-Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)  
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Java Badge](https://img.shields.io/badge/-Java-007acc?style=for-the-badge&labelColor=black&logo=java&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)  [![Python Badge](https://img.shields.io/badge/-Python-red?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)  
 
 ### Tutorials
 
